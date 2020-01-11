@@ -15,7 +15,6 @@ const int NUMBER_OF_NUMBERS = 100;
 int main() {
 	
 	std::string sum = "";
-	https://www.milanvasek.com/projects/51W2P?album_id=32842
 	std::string numbers[NUMBER_OF_NUMBERS];
 	
 	if(NUMBER_OF_NUMBERS * NUMBER_OF_DIGITS > NUMBERS_TO_ADD.size()) {
